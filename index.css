@@ -135,6 +135,7 @@ start and select buttons. */
     height: 19px;
     top: 250px;
     left: 291px;
+    color: orange;
 }
 /* Setting the size and CSS sprite for the start adn select buttons */
 .custom .back, .custom .start{
