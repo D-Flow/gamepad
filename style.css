@@ -1339,7 +1339,7 @@ background-position: 0 -70px;
 
 /*BEGIN PS4 White Controller Styling*/
 .controller.ds4.white {
-    background-image: url(ps4-white-assets/base.svg);
+    background-image: url(https://github.com/D-Flow/gamepad/blob/main/base.svg);
 }
 
 .ds4.white.disconnected {
@@ -1347,11 +1347,11 @@ background-position: 0 -70px;
 }
 
 .ds4.white .trigger {
-    background-image: url(ps4-white-assets/triggers.svg);
+    background-image: url(https://github.com/D-Flow/gamepad/blob/main/triggers.svg);
 }
 
 .ds4.white .bumper {
-    background-image: url(ps4-white-assets/bumper.svg);
+    background-image: url(https://github.com/D-Flow/gamepad/blob/main/bumper.svg);
 }
 
 .ds4.white .touchpad.pressed {
@@ -1359,19 +1359,19 @@ background-position: 0 -70px;
 }
 
 .ds4.white .back, .ds4 .start {
-    background-image: url(ps4-white-assets/start.svg);
+    background-image: url(https://github.com/D-Flow/gamepad/blob/main/start.svg);
 }
 
 .ds4.white .button {
-    background-image: url(ps4-white-assets/face.svg);
+    background-image: url(https://github.com/D-Flow/gamepad/blob/main/face.svg);
 }
 
 .ds4.white .stick {
-    background-image: url(ps4-white-assets/sticks.svg);
+    background-image: url(https://github.com/D-Flow/gamepad/blob/main/sticks.svg);
 }
 
 .ds4.white .face {
-    background-image: url(ps4-white-assets/dpad.svg);
+    background-image: url(https://github.com/D-Flow/gamepad/blob/main/dpad.svg);
 }
 
 /*END PS4 White Controller Styling*/
